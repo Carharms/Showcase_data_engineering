@@ -1,0 +1,12 @@
+[project]
+name = "pa6"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipython>=8.29.0",
+    "networkx>=3.4.2",
+    "pytest>=8.3.3",
+    "ruff>=0.7.2",
+]
