@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/m518VUAx)
-# Programming Assignment 6
+### Relational NetworkX Module Mapping
 
-This programming assignment's instructions are in `cosponsors/README.md` and `weather/README.md`
+A composition of a coded graph that takes inputs from downloaded .csv files related to the legislative agendas' of members of the U.S. government and determine how representatives vote in comparison with other representatives and in relation to bills and legislature proposed.
